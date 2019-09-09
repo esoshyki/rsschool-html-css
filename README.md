@@ -1,4 +1,4 @@
-# rsschool-2019Q1-codeacademy
+# rsschool-2019Q3-codeacademy
 
 Dzmitry Faryna
 HTML CSS Basics: https://www.codecademy.com/users/esoshyki1764710704/achievements
